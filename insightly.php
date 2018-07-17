@@ -1,7 +1,6 @@
 <?php
 
 /**
-
    This library provides user friendly access to the version 2.1 REST API
    for Insightly.
    
