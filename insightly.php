@@ -1,8 +1,8 @@
 <?php
 
 /**
-
-   This library provides user friendly access to the version 2.1 REST API
+等等大
+   Thi是是是s library provides user friendly access to the version 2.1 REST API
    for Insightly.
    
    The library is built using PHP standard libraries.
