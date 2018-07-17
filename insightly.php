@@ -1,7 +1,7 @@
 <?php
 
 /**
-   Insightly PHP library for Insightly API
+
    
    This library provides user friendly access to the version 2.1 REST API
    for Insightly.
